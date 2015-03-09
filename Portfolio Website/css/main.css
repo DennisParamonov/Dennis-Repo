@@ -1,0 +1,174 @@
+* { margin: 0; padding: 0; }
+
+.banner img {
+width: 100%;
+text-decoration: none;
+position: fixed;
+
+}
+
+.bannerext img {
+width: 100%;
+text-decoration: none;
+position: fixed;
+
+}
+
+.email {
+text-decoration: none;
+font: 11px Futura, sans-serif;
+color: #D8D8D8;
+padding-top: 36%;
+padding-left: 23%;
+position: fixed;
+}
+
+.profilepic img {
+margin-top: 195px;
+left: 23%;
+position: fixed;
+
+}
+
+.soundcloud img {
+margin-top: 362px;
+left: 23%;
+position: fixed;
+}
+
+.Home img {
+margin-top: 8%;
+left: 20%;
+position: fixed;
+}
+
+.Bio img {
+margin-top: 8%;
+left: 32%;
+position: fixed;
+}
+
+.Press img {
+margin-top: 8%;
+left: 63%;
+position: fixed;
+}
+
+.Info img {
+margin-top: 8%;
+left: 74%;
+position: fixed;
+}
+
+.facebook img {
+margin-top: 390px;
+left: 23%;
+position: fixed;
+
+}
+
+.twitter img {
+margin-top: 418px;
+left: 23%;
+position: fixed;
+
+}
+
+.insta img {
+margin-top:447px;
+left: 23%;
+position: fixed;
+
+}
+
+.mainpage img {
+width: 100%;
+text-decoration: none;
+position: absolute;
+
+}
+
+.track1 {
+margin-top: 260px;
+position: absolute;
+right: 39.5%;
+}
+
+.track2 {
+margin-top: 405px;
+position: absolute;
+right: 39.5%;
+}
+
+
+.track3 {
+margin-top: 551px;
+position: absolute;
+right: 39.5%;
+}
+
+.track4 {
+margin-top: 698px;
+position: absolute;
+right: 39.5%;
+}
+
+
+.track5 {
+margin-top: 842px;
+position: absolute;
+right: 39.5%;
+}
+
+.track6 {
+margin-top: 985px;
+position: absolute;
+right: 39.5%;
+}
+
+.track7 {
+margin-top: 1185px;
+position: absolute;
+right: 39.5%;
+}
+
+.track8 {
+margin-top: 1330px;
+position: absolute;
+right: 39.5%;
+}
+
+.track9 {
+margin-top: 1475px;
+position: absolute;
+right: 39.5%;
+}
+
+.track10 {
+margin-top: 1622px;
+position: absolute;
+right: 39.5%;
+}
+
+.track11 {
+margin-top: 1830px;
+position: absolute;
+right: 39.5%;
+}
+
+.track12 {
+margin-top: 1975px;
+position: absolute;
+right: 39.5%;
+}
+
+.track13 {
+margin-top: 2120px;
+position: absolute;
+right: 39.5%;
+}
+
+
+
+
+
