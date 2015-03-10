@@ -18,22 +18,16 @@ position: fixed;
 text-decoration: none;
 font: 11px Futura, sans-serif;
 color: #D8D8D8;
-padding-top: 36%;
+padding-top: 36.5%;
 padding-left: 23%;
 position: fixed;
 }
 
 .profilepic img {
-margin-top: 195px;
-left: 23%;
+margin-top: 209px;
+left: 23.8%;
 position: fixed;
 
-}
-
-.soundcloud img {
-margin-top: 362px;
-left: 23%;
-position: fixed;
 }
 
 .Home img {
@@ -60,22 +54,28 @@ left: 74%;
 position: fixed;
 }
 
+.soundcloud img {
+margin-top: 381px;
+left: 23%;
+position: fixed;
+}
+
 .facebook img {
-margin-top: 390px;
+margin-top: 410px;
 left: 23%;
 position: fixed;
 
 }
 
 .twitter img {
-margin-top: 418px;
+margin-top: 440px;
 left: 23%;
 position: fixed;
 
 }
 
 .insta img {
-margin-top:447px;
+margin-top:467px;
 left: 23%;
 position: fixed;
 
