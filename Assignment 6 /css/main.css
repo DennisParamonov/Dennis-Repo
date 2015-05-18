@@ -1,0 +1,19 @@
+* { margin: 0; padding: 0; }
+
+.ball {
+	background: #000000;
+	width: 30px;
+	height: 30px;
+	border-radius: 30px;
+	position: absolute;
+}
+
+.paddle {
+	background: #000000;
+	width: 30px;
+	height: 100px;
+	border: 100px;
+	position: absolute;
+	padding-left: 5%;
+}
+
